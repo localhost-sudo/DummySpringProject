@@ -11,6 +11,7 @@ public class DummySpringProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DummySpringProjectApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
